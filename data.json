@@ -1,0 +1,38 @@
+[
+    {
+        "book_id": 1000,
+        "title": "Atomic habits",
+        "author": "James Clear",
+        "isbn": "34526767",
+        "year_of_publication": "2019"
+    },
+    {
+        "book_id": 1001,
+        "title": "Americanah",
+        "author": "Chimamanda Adichie",
+        "isbn": "10202223",
+        "year_of_publication": "2013"
+    },
+    {
+        "book_id": 1002,
+        "title": "Teller of secrets",
+        "author": "Bisi Adjapon",
+        "isbn": "10201120",
+        "year_of_publication": "2013"
+    },
+    {
+        "book_id": 1003,
+        "title": "Joys of motherhood",
+        "author": "Buchi Emecheta",
+        "isbn": "10110120",
+        "year_of_publication": "1979" 
+    },
+    
+    {
+        "book_id": 1004,
+        "title": "Purple Hibiscus",
+        "author": "Chimamanda Adichie",
+        "isbn": "10001241",
+        "year_of_publication": "2012" 
+    }
+]
